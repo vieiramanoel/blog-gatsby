@@ -1,5 +1,7 @@
 backend:
   name: test-repo
+  repo: vieiramanoel/blog-gatsby
+  branch: main
 
 media_folder: static/img
 public_folder: /img
